@@ -1,0 +1,26 @@
+.product-detail {
+  text-align: center;
+  padding: 2rem;
+}
+
+.product-detail img {
+  width: 300px;
+  height: auto;
+}
+
+.product-detail h2 {
+  margin-top: 1rem;
+}
+
+.product-detail p {
+  margin: 1rem 0;
+}
+
+.product-detail button {
+  background-color: #27ae60;
+  color: white;
+  padding: 1rem;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
